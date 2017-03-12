@@ -92,6 +92,8 @@ _autosave-*
 
 # Libraries
 *.lib
+!/circuit/*.lib
+!/circuit/library/*.lib
 *.a
 *.la
 *.lo
