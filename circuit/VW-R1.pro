@@ -1,4 +1,4 @@
-update=2017年03月11日 21時02分22秒
+update=2017年03月17日金曜日 16:53:21
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=library
@@ -60,3 +58,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=library/pic16f1
+[general]
+version=1
